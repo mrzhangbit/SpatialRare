@@ -1,5 +1,5 @@
-# SECIA
-# SECIA Pipeline Usage Guide (English & 中文)
+# SpatialRare
+# SpatialRare Pipeline Usage Guide (English & 中文)
 
 This repository includes scripts for data analysis and consensus assessment. Please follow the steps outlined below to use the pipeline correctly.
 
